@@ -1,4 +1,3 @@
-
 Sequential Circuit Analysis
 ================================
 
@@ -397,6 +396,3 @@ Author
 
 - Email address: ehalbadawy93@gmail.com
 
-License
-=======
-(See LICENSE)
