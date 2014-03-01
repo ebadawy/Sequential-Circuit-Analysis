@@ -1,5 +1,4 @@
 
-
 Sequential Circuit Analysis
 ================================
 
@@ -15,6 +14,9 @@ tool is a file containing the sequential Circuit and the output is the file cont
 the Mealy State Diagram.
 SCA comes with a simple and easy GUI trying to make things easer. Problem code could be typed from scratch in
 the codepad or imported from an exiting text file, and the output displayed in the same window.
+
+![SCA](https://f.cloud.github.com/assets/4296272/2302734/c676656a-a18a-11e3-8bb5-0b64745b0606.png)
+
      
 
 Technologies
